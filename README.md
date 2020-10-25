@@ -1,1 +1,0 @@
-# kovrovaya-vishivka.github.io
