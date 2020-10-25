@@ -39,7 +39,7 @@
 		
 	</div><br>
 	
-	<a href=Zagotovka_tovarov.php target=_blank><img src=photo_t.png class=tovar width=435px height=435px></a>
+	<a href=https://kovrovaya-vishivka.github.io/Zagotovka_tovarov.php target=_blank><img src=photo_t.png class=tovar width=435px height=435px></a>
 	<a href=Zagotovka_tovarov.php  target=_blank><img src=photo_t.png class=tovar width=435px height=435px></a>
 	<a href=Zagotovka_tovarov.php  target=_blank><img src=photo_t.png class=tovar width=435px height=435px></a>
 	<a href=Zagotovka_tovarov.php  target=_blank><img src=photo_t.png class=tovar width=435px height=435px></a>
