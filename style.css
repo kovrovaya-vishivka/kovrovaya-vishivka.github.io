@@ -92,7 +92,7 @@ a {
 }
 
 .tovar {
-	width: 170px;
+	width: 300px;
 	/width: calc(160% / 3);
 	display: inline-block;
 	//margin-right: 10%;
@@ -104,7 +104,7 @@ a {
 
 @media (max-width: 1600px){
 	.tovar {
-		width: 250px;
+		width: 170px;
 	}
 
 	
